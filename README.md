@@ -1,1 +1,1 @@
-# cotton-disease-prediction
+# Cotton-Disease-Prediction-Deep-Learning
